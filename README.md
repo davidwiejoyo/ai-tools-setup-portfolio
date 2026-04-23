@@ -1,102 +1,108 @@
-# AI Tools Setup Portfolio
+# AI Tools Setup & Research Portfolio
 
 ## Overview
-This project documents my process of setting up an AI-assisted development environment using Cursor IDE, Claude Code, Codex, and GitHub.
+This project consists of two parts:
 
-The goal is to demonstrate my ability to follow instructions, adapt to new tools, and troubleshoot technical issues independently.
+1. Setting up an AI-assisted development environment using Cursor IDE, Claude Code, Codex, and GitHub  
+2. Building a research project on LinkedIn organic content strategy for B2B SaaS  
 
----
-
-## Tools Installed
-
-- Cursor IDE
-- Claude Code extension
-- Codex extension (logged in via ChatGPT)
-- Git (installed manually)
-- GitHub
+The goal is to demonstrate not only my ability to set up tools, but also to research, analyze, and synthesize insights from high-performing practitioners.
 
 ---
 
-## Setup Process
+## Part 1 — AI Tools Setup
 
-1. Installed Cursor IDE and completed onboarding ("By Myself").
-2. Connected GitHub account via browser authentication.
-3. Installed Claude Code and Codex extensions.
-4. Created a public GitHub repository.
-5. Installed Git after realizing it was required for version control.
-6. Cloned the repository to my local machine.
-7. Opened the project in Cursor IDE.
-8. Created this README.md file.
-9. Configured Git username and email.
-10. Committed and pushed the project to GitHub.
+### Tools Installed
+- Cursor IDE  
+- Claude Code extension  
+- Codex extension (logged in via ChatGPT)  
+- Git  
+- GitHub  
 
----
+### Setup Process
+1. Installed Cursor IDE and completed onboarding  
+2. Connected GitHub account  
+3. Installed Claude Code and Codex extensions  
+4. Created a GitHub repository  
+5. Installed Git manually  
+6. Cloned repository locally  
+7. Configured Git identity  
+8. Committed and pushed project  
 
-## Challenges & Solutions
-
-### Git Not Detected
-I could not find the "Git: Clone" option in Cursor.
-
-**Solution:**  
-Installed Git manually and restarted the IDE.
-
----
-
-### Local vs Remote Confusion
-Initially confused between local project and GitHub repository.
-
-**Solution:**  
-Learned to clone the repository properly and work from the correct folder.
+### Key Learnings
+- Environment setup from scratch  
+- Git workflow (clone, commit, push)  
+- Using AI tools in development  
+- Troubleshooting independently  
 
 ---
 
-### Git Configuration Issue
-Commit failed because Git identity was not set.
+## Part 2 — Research Project  
+### Topic: LinkedIn Organic Content Strategy for B2B SaaS
 
-**Solution:**  
-Configured `user.name` and `user.email` globally.
-
----
-
-### Commit Process Confusion
-The commit process opened a message editor, which was unfamiliar at first.
-
-**Solution:**  
-Entered a commit message, saved, and completed the commit successfully.
+### Research Objective
+To understand how top B2B SaaS creators use LinkedIn to build authority, generate engagement, and drive business outcomes.
 
 ---
 
-### Claude Code Login Limitation
-Claude required subscription/API login.
+## What I Collected
 
-**Solution:**  
-Skipped login as it was not required for this task and continued setup.
+- 10 curated experts  
+- LinkedIn post analysis  
+- YouTube / long-form content  
+- Structured findings (hooks, structure, value delivery, etc.)
+
+Repository structure:
+
+/research/
+- sources.md  
+- linkedin-posts/  
+- youtube-transcripts/  
+- insights/  
 
 ---
 
-### Codex Authentication
-Codex allowed login using my ChatGPT account.
+## Why These Experts
 
-**Solution:**  
-Logged in successfully and explored how it integrates as an AI coding assistant.
+The selected experts are practitioners who:
+
+- consistently produce high-performing content  
+- have clear positioning  
+- demonstrate repeatable patterns  
+
+Each represents a different strategy:
+
+- Emotional → Justin Welsh  
+- Psychological → Katelyn Bourgoin  
+- Direct → Alex Hormozi  
+- Storytelling → Shaan Puri  
+- Framework → Dickie Bush  
+- Authority → Nicolas Cole  
+- Simple → Josh Spector  
+- Growth → Lara Acosta  
+- Execution → Austin Belcak  
+- B2B → Matt Barker  
 
 ---
 
-## Key Learnings
+## Key Insight
 
-- Setting up a development environment from scratch
-- Using Git (clone, commit, push)
-- Connecting local projects with GitHub
-- Exploring AI tools within a coding workflow
-- Troubleshooting setup issues independently
-- Making practical decisions based on task requirements
+High-performing LinkedIn content is not defined by format, but by:
+
+- clear positioning  
+- consistency  
+- strong hooks  
+- readability  
 
 ---
 
 ## Conclusion
 
-This project demonstrates my ability to learn quickly, solve technical problems, and adapt to unfamiliar tools.
+This project demonstrates my ability to:
 
-I approached each step with a practical mindset, focusing on completing the task efficiently while understanding how each tool works in the overall workflow.
+- set up new tools independently  
+- research high-quality sources  
+- analyze content patterns  
+- synthesize insights  
 
-I am confident in applying this approach to real-world development environments, especially when working with AI-assisted tools.
+I approached this as a real research exercise, not just a task.
